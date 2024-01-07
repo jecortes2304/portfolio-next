@@ -1,0 +1,102 @@
+[
+  {
+    "id":1,
+    "name":"Sisga",
+    "type":"Aplicación escritorio",
+    "bannerSrc":"images/banners/sisga_banner.png",
+    "logo":"images/projects-images/sisga/logo.png",
+    "imagesUrl":"/images/projects-images/sisga/",
+    "imagesAmount":6,
+    "githubUrl":"https://github.com/jecortes2304/sisga",
+    "publishUrl":"",
+    "status":"En proceso",
+    "stackTech":"JavaFx, Spring Boot, Hibernate, MySQL, Java 8",
+    "description":"Sisga (Sistema de gestión de acuerdos) fue creado para automatizar y agilizar el proceso de reuniones y acuerdos de la entidad, generar gráficas de decisión y expedir documentos con firmas digitales."
+  },
+  {
+    "id":2,
+    "name":"Find my Phrase",
+    "type":"Aplicación escritorio",
+    "bannerSrc":"images/banners/find_my_phrase_banner.png",
+    "logo":"images/projects-images/find_my_phrase/logo.png",
+    "imagesUrl":"/images/projects-images/find_my_phrase/",
+    "imagesAmount":4,
+    "githubUrl":"https://github.com/jecortes2304/cs_FindMyPhrase",
+    "publishUrl":"",
+    "status":"Terminado",
+    "stackTech":"Java Swing, PDFReader",
+    "description":"Find my phrase surge como una inquietud y un proyecto personal, de manera simple permite encontrar una lista de PDFs que contengan una palabra o una frase con solo brindar un directorio."
+
+  },
+  {
+    "id":3,
+    "name":"Power Off",
+    "type":"Aplicación escritorio",
+    "bannerSrc":"images/banners/power_off_banner.png",
+    "logo":"images/projects-images/power_off/logo.png",
+    "imagesUrl":"/images/projects-images/power_off/",
+    "imagesAmount":4,
+    "githubUrl":"https://github.com/jecortes2304/cs_PowerOff",
+    "publishUrl":"",
+    "status":"Terminado",
+    "stackTech":"C#, Windows Form",
+    "description":"Power Off permite reocrrer todos los equipos de una LAN para ejecutar comandos o automatizar los mismos mediante una interfaz sencilla y cómoda"
+  },
+  {
+    "id":4,
+    "name":"Casero",
+    "type":"Aplicación móvil",
+    "bannerSrc":"images/banners/casero_banner.png",
+    "logo":"images/projects-images/casero/logo.png",
+    "imagesUrl":"/images/projects-images/casero/",
+    "imagesAmount":11,
+    "githubUrl":"https://github.com/jecortes2304/cs_Casero",
+    "publishUrl":"",
+    "status":"Terminado",
+    "stackTech":"Java, Jsoup, Scraping Web, Android SDK",
+    "description":"Casero fue concebida para mejorar la experiencia y brindar nuevas funcionalidades al antiguo sistema de gestión de huéspedes para casas particulares."
+  },
+  {
+    "id":5,
+    "name":"Conservador Trinidad",
+    "type":"Aplicación móvil",
+    "bannerSrc":"images/banners/conservador_banner.png",
+    "logo":"images/projects-images/conservador/logo.png",
+    "imagesUrl":"/images/projects-images/conservador/",
+    "imagesAmount":5,
+    "githubUrl":"https://github.com/jecortes2304/cs_ConservadorTrinidad",
+    "publishUrl":"",
+    "status":"Terminado",
+    "stackTech":"Kotlin, Android SDK",
+    "description":"Conservaodr Trinidad sirve como una herrmamienta promocional de la empresa Oficina del Conservador de Trindiad, ademas brinda funcionalidades para las inscripciones de eventos relacionados a la entidad."
+  },
+  {
+    "id":6,
+    "name":"Recárgame App",
+    "type":"Aplicación móvil",
+    "bannerSrc":"images/banners/recargame_banner.png",
+    "logo":"images/projects-images/recargame/logo.png",
+    "imagesUrl":"/images/projects-images/recargame/",
+    "imagesAmount":8,
+    "githubUrl":"https://github.com/jecortes2304/Recargame-app",
+    "publishUrl":"https://play.google.com/store/apps/details?id=com.cortestudios.recargameapp",
+    "status":"Terminado",
+    "stackTech":"Java, Room, Android SDK",
+    "description":"Recárgame App fue desarrollada como parte del encargo de un cliente para gestionar las facturas y transferencias del sistema de dicha compañia(Recárgame), permitiendo la sincronizacion local y online de los datos."
+  },
+  {
+    "id":7,
+    "name":"Dememo",
+    "type":"Aplicación móvil",
+    "bannerSrc":"images/banners/dememo_banner.png",
+    "logo":"images/projects-images/dememo/logo.png",
+    "imagesUrl":"/images/projects-images/dememo/",
+    "imagesAmount":9,
+    "githubUrl":"https://github.com/ElioReyesGlez/DeMeMo",
+    "publishUrl":"https://play.google.com/store/apps/details?id=com.erg.memorized",
+    "status":"Terminado",
+      "stackTech":"Java, Firebase, Realm, Android SDK",
+    "description":"Dememo fue un proyecto en conjunto donde fui coautor, la idea original fue concebida por el Ing. Elioenai Reyes González (https://www.linkedin.com/in/elioenai-reyes-gonzález/) como parte de un proyecto para el movimiento cristiano."
+  }
+
+]
